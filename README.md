@@ -2,8 +2,9 @@
 <h3 align="center">Hedonist | Flamboyant | Bad Boy</h3>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp; 
-  <img src="https://github-profile-trophy.vercel.app/?username=sadatrafsanjani" alt="sadatrafsanjani" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadatrafsanjani" alt="sadatrafsanjani" />
+  </a> 
 </p>
 
 - 🔭 I’m currently working on **Video Calling System**
