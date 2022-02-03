@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Video Calling System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
 - 👯 I’m looking to collaborate on **Deep Learning Based Open Source Project**
 
