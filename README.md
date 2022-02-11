@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java, Angular, Javascript, Python and PL/SQL**
 
-- 📫 How to reach me **sadatrafsanjani@gmail.com**
+- 📫 How to reach me **sadatrafsanjani [at] gmail [dot] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
