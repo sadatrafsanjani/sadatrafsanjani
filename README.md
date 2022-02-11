@@ -1,4 +1,4 @@
-<h1 align="center">Good Day! 👋</h1>
+<h1 align="center">Esse est Percipi! 👋</h1>
 <h3 align="center">Full Stack Software Engineer | Microservice Evangelist</h3>
 
 <p align="left"> 
@@ -7,17 +7,17 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Video Calling System**
+- 🔭 I’m currently working on **E-Learning System**
 
 - 🌱 I’m currently learning **Laravel and Flutter**
 
-- 👯 I’m looking to collaborate on **Deep Learning Based Open Source Project**
+- 👯 I’m looking to collaborate on **Deep Learning based System Design**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **Image dataset generation**
 
 - 👨‍💻 All of my projects are available at [github.com/sadatrafsanjani](github.com/sadatrafsanjani)
 
-- 💬 Ask me about **Java and Angular**
+- 💬 Ask me about **Java, Angular, Javascript, Python and PL/SQL**
 
 - 📫 How to reach me **sadatrafsanjani@gmail.com**
 
