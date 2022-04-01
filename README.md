@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Learning System**
 
-- 🌱 I’m currently learning **Laravel and Flutter**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Deep Learning based System Design**
 
