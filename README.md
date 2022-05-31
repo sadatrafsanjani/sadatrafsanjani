@@ -1,5 +1,5 @@
 <h1 align="center">Esse est Percipi! 👋</h1>
-<h3 align="center">Full Stack Software Engineer | Microservice Evangelist</h3>
+<h3 align="center">Software Engineer | Microservice Evangelist</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
