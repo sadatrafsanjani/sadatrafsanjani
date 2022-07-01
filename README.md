@@ -1,5 +1,4 @@
-<h1 align="center">Esse est Percipi! 👋</h1>
-<h3 align="center">Senior Software Engineer | Microservice Evangelist</h3>
+<h1 align="center">Software Engineer | Microservice Evangelist</h1>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,9 +8,9 @@
 
 - 🔭 I’m currently working on **E-Learning System**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Software Project Management**
 
-- 👯 I’m looking to collaborate on **Deep Learning based System Design**
+- 👯 I’m looking to collaborate on **Deep Learning**
 
 - 🤝 I’m looking for help with **Image dataset generation**
 
@@ -19,7 +18,7 @@
 
 - 💬 Ask me about **Java, Angular, Javascript, Python and PL/SQL**
 
-- 📫 How to reach me **sadatrafsanjani [at] gmail [dot] com**
+- 📫 How to reach me **A this moment I cannot be found anywhere**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
