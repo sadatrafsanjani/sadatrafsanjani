@@ -6,9 +6,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **E-Learning System**
+- 🔭 I’m currently working on **Financial Software**
 
-- 🌱 I’m currently learning **Software Project Management**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **Deep Learning**
 
