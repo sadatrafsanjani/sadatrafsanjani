@@ -6,13 +6,13 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Financial Software**
+- 🔭 I’m currently working on **Enterprise Solutions**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Opensource Projects**
 
-- 🤝 I’m looking for help with **Image dataset generation**
+- 🤝 I’m looking for help with **Automatic Program Repair**
 
 - 👨‍💻 All of my projects are available at [github.com/sadatrafsanjani](github.com/sadatrafsanjani)
 
